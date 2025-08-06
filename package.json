@@ -2,7 +2,7 @@
   "name": "footing2pile-calculator",
   "version": "1.0.0",
   "description": "Pile Cap Calculator for 2-Pile Foundation Design",
-  "homepage": "https://TRDDIGITALL.github.io/pile-cap-calculator",
+  "homepage": "https://TRDDIGITALL.github.io/pile-cap-calculator-TRD",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
