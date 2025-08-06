@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pile-cap-calculator-TRD/static/css/main.8e4102f9.css",
+    "main.js": "/pile-cap-calculator-TRD/static/js/main.a614b390.js",
+    "index.html": "/pile-cap-calculator-TRD/index.html",
+    "main.8e4102f9.css.map": "/pile-cap-calculator-TRD/static/css/main.8e4102f9.css.map",
+    "main.a614b390.js.map": "/pile-cap-calculator-TRD/static/js/main.a614b390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4102f9.css",
+    "static/js/main.a614b390.js"
+  ]
+}
